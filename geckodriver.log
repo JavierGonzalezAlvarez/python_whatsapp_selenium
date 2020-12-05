@@ -1,0 +1,14 @@
+1607195679711	geckodriver	INFO	Listening on 127.0.0.1:58825
+1607195679714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXbgEwc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607195681957	Marionette	INFO	Listening on port 45393
+1607195682051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607195895634	geckodriver	INFO	Listening on 127.0.0.1:49635
+1607195895638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC6C9cs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607195897559	Marionette	INFO	Listening on port 36895
+1607195897666	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
