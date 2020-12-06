@@ -3,7 +3,7 @@ automatizacion de envio de mensaje desde script en python con selenium
 y firefox
 -----------------------------------------------------------------------
 
-documentción
+documentación
 --------------------
 https://www.selenium.dev/documentation/en/
 
