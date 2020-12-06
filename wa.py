@@ -14,7 +14,6 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from selenium.webdriver.chrome.options import Options
 
 #windows tabs
-#from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.expected_conditions import presence_of_element_located
 
@@ -33,22 +32,21 @@ print("Actual tab: ", tab)
 try:
     name = "Javier"
     while name != "salir":
-        name = input('Introducir el nombre o grupo. Para salir teclear salir: ')
-        #Nombre del Chat
-        user = driver.find_element_by_xpath('//span[@title = "{}"]'.format(name))
-        user.click()
+        name = input('Introducir el nombre o grupo (para salir teclear => salir): ')  
         if name == "salir":
             sys.exit()
             driver.close()
         else:
-            #colocarse en el textbox
-            #driver.FindElementsByClassName("_1awRl.copyable-text.selectable-text")
-            #driver.find_element_by_class_name('_1awRl.copyable-text.selectable-text').click()
+            #Nombre del Chat
+            user = driver.find_element_by_xpath('//span[@title = "{}"]'.format(name))
+            user.click()            
             msg = input('Introducir en mensaje : ')            
             #Textobox que define la class CSS JS de WhatsApp
             #msg_box = driver.find_element_by_xpath("//input[@class='_1awRl.copyable-text.selectable-text']")
 
             #segunda ocurrencia y busqueda plural - hay 2 posiciones en una de las clases
+            #los espacios se sustituyen por puntos
+            #localizar con inspector de elementos la clase
             msg_box = driver.find_elements_by_class_name('_1awRl.copyable-text.selectable-text')[1]
             #msg_box = driver.find_element_by_class_name('_1awRl.copyable-text.selectable-text')
             #
@@ -57,22 +55,10 @@ try:
             #msg_box.send_keys(msg)
             msg_box.send_keys(msg)
             
-            #Button de envío
-            driver.find_element_by_class_name("_3qpzV").click()
-            #bt.click()
-            #msg_box = driver.find_element_by_class_name("Srlyw")
-            #msg_box = driver.find_element_by_class_name("_1awRl copyable-text selectable-text")
-            #msg_box.send_keys(msg)
-            #envio = driver.find_element_by_class_name("_3SvgF _1mHgA copyable-area")
-            #envio.click()
-            #boton_enviar = driver.find_element_by_xpath("//span[@data-icon='send']")
-            #boton_enviar = driver.find_element_by_xpath('//span[@data-icon="send-light"]')
-            #boton_enviar.click()
-
-            #element = driver.find_element_by_xpath("//form[input/@name ='search']") 
-            #driver.find_element_by_xpath('//span[@data-icon='send']')
-            #driver.find_element_by_class_name("_3uMse").click()        
+            #Button de envío - lcoalizar el boton  => <button class="_2Ujuu">     
+            driver.find_element_by_class_name("_2Ujuu").click()
+            print("Mensaje enviado por WhatsApp")            
             
 finally:
-    #Salir del navegador
+    #Salir del driver en caso de error
     driver.quit()
