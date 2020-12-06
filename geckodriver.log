@@ -181,3 +181,1095 @@ Exiting due to channel error.
 Exiting due to channel error.
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 Exiting due to channel error.
+1607199351125	geckodriver	INFO	Listening on 127.0.0.1:36433
+1607199351129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMwsd4c"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607199352889	Marionette	INFO	Listening on port 38019
+1607199352956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607200404553	geckodriver	INFO	Listening on 127.0.0.1:41259
+1607200404558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebAU5t3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607200406493	Marionette	INFO	Listening on port 36167
+1607200406583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1162"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1162:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:629:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1162, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1261:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1486:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1209:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:632:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1261, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1261))
+1607200476907	geckodriver	INFO	Listening on 127.0.0.1:48693
+1607200476910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5rLJlQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607200478763	Marionette	INFO	Listening on port 43393
+1607200478861	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607200663765	geckodriver	INFO	Listening on 127.0.0.1:60139
+1607200663768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepEj2vC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607200665742	Marionette	INFO	Listening on port 38379
+1607200665813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+
+(firefox:71778): GLib-GObject-CRITICAL **: 12:38:53.343: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:71778): GLib-GObject-CRITICAL **: 12:38:53.344: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:71778): GLib-GObject-CRITICAL **: 12:38:53.344: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:71778): GLib-GObject-CRITICAL **: 12:38:53.344: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:71778): GLib-GObject-CRITICAL **: 12:38:53.356: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:71778): GLib-GObject-CRITICAL **: 12:38:53.357: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:71778): GLib-GObject-WARNING **: 12:38:53.374: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9988da2dd0' of type 'MaiAtkType139'
+
+(firefox:71778): GLib-GObject-WARNING **: 12:38:53.375: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9988da2f50' of type 'MaiAtkType139'
+
+(firefox:71778): GLib-GObject-CRITICAL **: 12:38:53.417: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:71778): GLib-GObject-CRITICAL **: 12:39:13.279: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1607200817611	geckodriver	INFO	Listening on 127.0.0.1:58657
+1607200817614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZSGu7x"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607200819588	Marionette	INFO	Listening on port 45533
+1607200819641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+
+(firefox:71778): GLib-GObject-CRITICAL **: 12:40:28.408: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+
+(firefox:71778): GLib-GObject-CRITICAL **: 12:40:28.490: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:71778): GLib-GObject-CRITICAL **: 12:40:28.991: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:71778): GLib-GObject-CRITICAL **: 12:40:29.241: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1607200906998	geckodriver	INFO	Listening on 127.0.0.1:39947
+1607200907002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGNIk4N"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607200909108	Marionette	INFO	Listening on port 35815
+1607200909139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607200952393	Marionette	INFO	Stopped listening on port 38379
+1607200953711	Marionette	INFO	Stopped listening on port 36167
+1607200954828	Marionette	INFO	Stopped listening on port 43393
+1607200955595	Marionette	INFO	Stopped listening on port 45533
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607200961922	Marionette	INFO	Stopped listening on port 38019
+1607233420505	geckodriver	INFO	Listening on 127.0.0.1:53129
+1607233421503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4NK9BI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607233423490	Marionette	INFO	Listening on port 45149
+1607233423555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607233458373	geckodriver	INFO	Listening on 127.0.0.1:47223
+1607233458377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA9ehaM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607233460570	Marionette	INFO	Listening on port 38137
+1607233460611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607233469987	Marionette	INFO	Stopped listening on port 38137
+1607233470939	Marionette	INFO	Stopped listening on port 45149
+1607233506689	geckodriver	INFO	Listening on 127.0.0.1:55997
+1607233506692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMKwq9z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607233508487	Marionette	INFO	Listening on port 35145
+1607233508565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607233542597	geckodriver	INFO	Listening on 127.0.0.1:50169
+1607233542601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletx0DTA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607233544557	Marionette	INFO	Listening on port 36713
+1607233544646	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607233563944	Marionette	INFO	Stopped listening on port 36713
+1607233592950	geckodriver	INFO	Listening on 127.0.0.1:51665
+1607233592953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB4DB3t"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607233594805	Marionette	INFO	Listening on port 43019
+1607233594882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607233599466	Marionette	INFO	Stopped listening on port 43019
+1607233631942	geckodriver	INFO	Listening on 127.0.0.1:38597
+1607233631946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile77s6RZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607233633965	Marionette	INFO	Listening on port 34557
+1607233634081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607233640997	Marionette	INFO	Stopped listening on port 34557
+1607233645428	geckodriver	INFO	Listening on 127.0.0.1:54621
+1607233645432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1yFtoL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607233647167	Marionette	INFO	Listening on port 38245
+1607233647272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607233650740	Marionette	INFO	Stopped listening on port 38245
+1607233721143	geckodriver	INFO	Listening on 127.0.0.1:33491
+1607233721147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGXFtXS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607233722984	Marionette	INFO	Listening on port 33361
+1607233723086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607233734379	Marionette	INFO	Stopped listening on port 33361
+1607233745699	geckodriver	INFO	Listening on 127.0.0.1:54041
+1607233745703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7a5CJK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607233747785	Marionette	INFO	Listening on port 35651
+1607233747829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607233751638	Marionette	INFO	Stopped listening on port 35651
+1607233980151	geckodriver	INFO	Listening on 127.0.0.1:45183
+1607233980155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqk8ya3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607233982105	Marionette	INFO	Listening on port 34699
+1607233982199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607233983663	Marionette	INFO	Stopped listening on port 34699
+1607234000016	Marionette	INFO	Stopped listening on port 35145
+1607234010023	geckodriver	INFO	Listening on 127.0.0.1:49047
+1607234010026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4JKYy8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607234011731	Marionette	INFO	Listening on port 37255
+1607234011748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607234012733	Marionette	INFO	Stopped listening on port 37255
+1607234167028	geckodriver	INFO	Listening on 127.0.0.1:50003
+1607234167031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo3cYrl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607234168830	Marionette	INFO	Listening on port 39091
+1607234168855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607234170455	Marionette	INFO	Stopped listening on port 39091
+1607234207971	geckodriver	INFO	Listening on 127.0.0.1:43891
+1607234207975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUoov1H"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607234209756	Marionette	INFO	Listening on port 46057
+1607234209799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607234211498	Marionette	INFO	Stopped listening on port 46057
+1607234251472	geckodriver	INFO	Listening on 127.0.0.1:60161
+1607234251475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet4NHjl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607234253207	Marionette	INFO	Listening on port 36607
+1607234253295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607234264515	Marionette	INFO	Stopped listening on port 36607
+1607234285487	geckodriver	INFO	Listening on 127.0.0.1:35435
+1607234285491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletdmtqA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607234287553	Marionette	INFO	Listening on port 41887
+1607234287629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607234299858	Marionette	INFO	Stopped listening on port 41887
+1607234371454	geckodriver	INFO	Listening on 127.0.0.1:36707
+1607234371457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeWFakv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607234373128	Marionette	INFO	Listening on port 38277
+1607234373181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607234389411	Marionette	INFO	Stopped listening on port 38277
+1607234444569	geckodriver	INFO	Listening on 127.0.0.1:49373
+1607234444572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebSzQAD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607234446586	Marionette	INFO	Listening on port 35963
+1607234446700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607234448483	Marionette	INFO	Stopped listening on port 35963
+1607234532441	geckodriver	INFO	Listening on 127.0.0.1:58735
+1607234532444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3kHLTZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607234534248	Marionette	INFO	Listening on port 35783
+1607234534275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607234536039	Marionette	INFO	Stopped listening on port 35783
+1607234543647	geckodriver	INFO	Listening on 127.0.0.1:55627
+1607234543651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2hioXj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607234545369	Marionette	INFO	Listening on port 37009
+1607234545471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607234559792	Marionette	INFO	Stopped listening on port 37009
+1607247580898	geckodriver	INFO	Listening on 127.0.0.1:40587
+1607247581897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerTm0kB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607247584015	Marionette	INFO	Listening on port 36483
+1607247584125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607247595476	Marionette	INFO	Stopped listening on port 36483
+1607247887723	geckodriver	INFO	Listening on 127.0.0.1:41269
+1607247887725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBB8Jxz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607247889646	Marionette	INFO	Listening on port 38063
+1607247889752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607247891079	Marionette	INFO	Stopped listening on port 38063
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607248102235	geckodriver	INFO	Listening on 127.0.0.1:55749
+1607248102238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledChrH8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607248104157	Marionette	INFO	Listening on port 33719
+1607248104281	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607248104315	geckodriver	INFO	Listening on 127.0.0.1:48131
+1607248104326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOjoC2s"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607248106917	Marionette	INFO	Listening on port 33981
+1607248106980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607248108316	Marionette	INFO	Stopped listening on port 33981
+1607248185700	Marionette	INFO	Stopped listening on port 33719
+1607248187849	geckodriver	INFO	Listening on 127.0.0.1:41645
+1607248187852	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAzcHt1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607248189593	Marionette	INFO	Listening on port 34299
+1607248189686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607248195676	Marionette	INFO	Stopped listening on port 34299
+1607248222411	geckodriver	INFO	Listening on 127.0.0.1:57159
+1607248222414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevVSJoC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607248224070	Marionette	INFO	Listening on port 33575
+1607248224142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+
+(firefox:4436): GLib-GObject-CRITICAL **: 01:51:09.150: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4436): GLib-GObject-CRITICAL **: 01:51:09.150: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4436): GLib-GObject-CRITICAL **: 01:51:09.150: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4436): GLib-GObject-CRITICAL **: 01:51:09.150: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4436): GLib-GObject-CRITICAL **: 01:51:09.150: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4436): GLib-GObject-CRITICAL **: 01:51:09.178: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4436): GLib-GObject-CRITICAL **: 01:51:09.178: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4436): GLib-GObject-CRITICAL **: 01:51:09.328: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4436): GLib-GObject-CRITICAL **: 01:52:22.178: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4436): GLib-GObject-WARNING **: 01:52:22.178: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7fde8538b0b0' of type 'MaiAtkType139'
+
+(firefox:4436): GLib-GObject-CRITICAL **: 01:52:41.034: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4436): GLib-GObject-CRITICAL **: 01:52:41.035: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4436): GLib-GObject-CRITICAL **: 01:52:42.733: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.eventLogger is undefined
+
+(firefox:4436): GLib-GObject-WARNING **: 01:54:35.489: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7fde7e0a47d0' of type 'MaiAtkType21'
+
+(firefox:4436): GLib-GObject-WARNING **: 01:54:44.826: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7fde55e26e30' of type 'MaiAtkType13b'
+1607248595621	geckodriver	INFO	Listening on 127.0.0.1:41607
+1607248595624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZmfb7T"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607248597686	Marionette	INFO	Listening on port 45427
+1607248597757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child3/accessible70 from: server0.conn0.child3/accessible70", "resource://devtools/shared/protocol/Front.js", 353))
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child3/accessible70 from: server0.conn0.child3/accessible70", "resource://devtools/shared/protocol/Front.js", 353))
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child3/accessible70 from: server0.conn0.child3/accessible70", "resource://devtools/shared/protocol/Front.js", 353))
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child3/accessible70 from: server0.conn0.child3/accessible70", "resource://devtools/shared/protocol/Front.js", 353))
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child3/accessible70 from: server0.conn0.child3/accessible70", "resource://devtools/shared/protocol/Front.js", 353))
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child3/accessible70 from: server0.conn0.child3/accessible70", "resource://devtools/shared/protocol/Front.js", 353))
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child3/accessible70 from: server0.conn0.child3/accessible70", "resource://devtools/shared/protocol/Front.js", 353))
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child3/accessible70 from: server0.conn0.child3/accessible70", "resource://devtools/shared/protocol/Front.js", 353))
+1607248887181	geckodriver	INFO	Listening on 127.0.0.1:46641
+1607248887185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHrUK7n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607248889170	Marionette	INFO	Listening on port 35243
+1607248889227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1162"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1162:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:629:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1162, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1261:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1486:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1209:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:632:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1261, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1261))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607248978793	Marionette	INFO	Stopped listening on port 33575
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607248980512	Marionette	INFO	Stopped listening on port 45427
+
+(firefox:5806): GLib-GObject-CRITICAL **: 02:03:35.491: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5806): GLib-GObject-CRITICAL **: 02:03:35.492: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5806): GLib-GObject-WARNING **: 02:03:35.492: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f1954519050' of type 'MaiAtkType139'
+
+(firefox:5806): GLib-GObject-WARNING **: 02:03:35.492: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f19545197d0' of type 'MaiAtkType139'
+
+(firefox:5806): GLib-GObject-CRITICAL **: 02:03:35.500: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5806): GLib-GObject-CRITICAL **: 02:03:35.500: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5806): GLib-GObject-CRITICAL **: 02:03:35.501: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5806): GLib-GObject-CRITICAL **: 02:03:35.517: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5806): GLib-GObject-CRITICAL **: 02:03:35.517: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5806): GLib-GObject-CRITICAL **: 02:03:35.571: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5806): GLib-GObject-CRITICAL **: 02:03:38.836: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5806): GLib-GObject-CRITICAL **: 02:03:39.434: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5806): GLib-GObject-CRITICAL **: 02:04:13.943: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1607249537494	geckodriver	INFO	Listening on 127.0.0.1:44707
+1607249537497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJzv7tB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607249539197	Marionette	INFO	Listening on port 41099
+1607249539233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+
+(firefox:5806): GLib-GObject-CRITICAL **: 02:12:28.582: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1162"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1162:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:629:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1162, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1261:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1486:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1209:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:632:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1261, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1261))
+1607249620674	geckodriver	INFO	Listening on 127.0.0.1:55841
+1607249620677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileguSwkn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607249622654	Marionette	INFO	Listening on port 41407
+1607249622712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607249669892	geckodriver	INFO	Listening on 127.0.0.1:57913
+1607249669895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1oqRa0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607249672020	Marionette	INFO	Listening on port 46155
+1607249672117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607249931768	geckodriver	INFO	Listening on 127.0.0.1:34273
+1607249931772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBkmI9C"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607249933940	Marionette	INFO	Listening on port 42205
+1607249934007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1162"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1162:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:629:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1162, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1261:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1486:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1209:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:632:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:738:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1261, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1261))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1607250011584	Marionette	INFO	Stopped listening on port 42205
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607250014119	Marionette	INFO	Stopped listening on port 46155
+1607250016238	Marionette	INFO	Stopped listening on port 41407
+1607250017624	Marionette	INFO	Stopped listening on port 41099
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607250021633	Marionette	INFO	Stopped listening on port 35243
+1607250060175	geckodriver	INFO	Listening on 127.0.0.1:36153
+1607250060178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYSeMVj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607250061890	Marionette	INFO	Listening on port 45913
+1607250062007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607250182997	geckodriver	INFO	Listening on 127.0.0.1:58141
+1607250183000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFl6dCB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607250184710	Marionette	INFO	Listening on port 34789
+1607250184824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607250325724	Marionette	INFO	Stopped listening on port 34789
+1607250326518	Marionette	INFO	Stopped listening on port 45913
+1607250394044	geckodriver	INFO	Listening on 127.0.0.1:46531
+1607250394047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG5slRX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607250396028	Marionette	INFO	Listening on port 46711
+1607250396068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607250485600	Marionette	INFO	Stopped listening on port 46711
+1607250492170	geckodriver	INFO	Listening on 127.0.0.1:56219
+1607250492173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8QfC12"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607250494092	Marionette	INFO	Listening on port 34645
+1607250494193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607250686744	Marionette	INFO	Stopped listening on port 34645
+1607250789882	geckodriver	INFO	Listening on 127.0.0.1:55917
+1607250789885	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWnxmWV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607250791604	Marionette	INFO	Listening on port 36893
+1607250791713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607250799483	Marionette	INFO	Stopped listening on port 36893
+1607250823436	geckodriver	INFO	Listening on 127.0.0.1:60061
+1607250823439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVy5yub"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607250825201	Marionette	INFO	Listening on port 34103
+1607250825269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607250841422	Marionette	INFO	Stopped listening on port 34103
+1607250952905	geckodriver	INFO	Listening on 127.0.0.1:39821
+1607250952909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3DzmAq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607250954625	Marionette	INFO	Listening on port 40169
+1607250954735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607250973004	Marionette	INFO	Stopped listening on port 40169
+1607251122454	geckodriver	INFO	Listening on 127.0.0.1:45981
+1607251122458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA0GS6a"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607251124274	Marionette	INFO	Listening on port 42475
+1607251124383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607251132163	Marionette	INFO	Stopped listening on port 42475
+1607252284138	geckodriver	INFO	Listening on 127.0.0.1:34497
+1607252284145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1Dr1tm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607252285837	Marionette	INFO	Listening on port 36919
+1607252285872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607252535579	Marionette	INFO	Stopped listening on port 36919
+1607252537308	geckodriver	INFO	Listening on 127.0.0.1:45557
+1607252537311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2zPTTX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607252538968	Marionette	INFO	Listening on port 37601
+1607252539036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607252557041	Marionette	INFO	Stopped listening on port 37601
+1607252968545	geckodriver	INFO	Listening on 127.0.0.1:48957
+1607252968548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTQ0hNJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607252970217	Marionette	INFO	Listening on port 35347
+1607252970276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607252987437	Marionette	INFO	Stopped listening on port 35347
+1607253038109	geckodriver	INFO	Listening on 127.0.0.1:34311
+1607253038114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDy9WEN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607253039902	Marionette	INFO	Listening on port 45869
+1607253039953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1607253291210	geckodriver	INFO	Listening on 127.0.0.1:40357
+1607253291213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiSPOJb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607253292947	Marionette	INFO	Listening on port 33627
+1607253293044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607253311096	Marionette	INFO	Stopped listening on port 33627
+1607253373198	geckodriver	INFO	Listening on 127.0.0.1:35423
+1607253373201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile28lsgg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607253375028	Marionette	INFO	Listening on port 46161
+1607253375130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607253390231	Marionette	INFO	Stopped listening on port 46161
+1607253418728	geckodriver	INFO	Listening on 127.0.0.1:55647
+1607253418732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePZwGB9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607253420492	Marionette	INFO	Listening on port 35579
+1607253420554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607253704870	Marionette	INFO	Stopped listening on port 35579
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607253706795	geckodriver	INFO	Listening on 127.0.0.1:52885
+1607253706798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletx0F6r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607253708579	Marionette	INFO	Listening on port 35293
+1607253708619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607253854626	Marionette	INFO	Stopped listening on port 35293
+1607253856302	geckodriver	INFO	Listening on 127.0.0.1:34447
+1607253856306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIYPQTL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607253858044	Marionette	INFO	Listening on port 33671
+1607253858131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 216: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1607254351183	Marionette	INFO	Stopped listening on port 33671
+1607254352957	geckodriver	INFO	Listening on 127.0.0.1:40607
+1607254352960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQcsJ6Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607254354826	Marionette	INFO	Listening on port 43615
+1607254354886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607254376299	Marionette	INFO	Stopped listening on port 43615
+1607254684710	geckodriver	INFO	Listening on 127.0.0.1:55885
+1607254684719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyeZE5o"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607254686411	Marionette	INFO	Listening on port 40203
+1607254686477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607254708077	Marionette	INFO	Stopped listening on port 40203
+1607254944606	geckodriver	INFO	Listening on 127.0.0.1:33305
+1607254944609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYncWi4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607254946328	Marionette	INFO	Listening on port 37545
+1607254946431	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607254969900	Marionette	INFO	Stopped listening on port 37545
+1607255090919	geckodriver	INFO	Listening on 127.0.0.1:57161
+1607255090922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZBL9Ae"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607255092701	Marionette	INFO	Listening on port 39109
+1607255092748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607255107258	Marionette	INFO	Stopped listening on port 39109
+1607255120154	geckodriver	INFO	Listening on 127.0.0.1:52429
+1607255120158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesAdI4G"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607255121855	Marionette	INFO	Listening on port 38191
+1607255121886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607255773488	Marionette	INFO	Stopped listening on port 38191
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607255861261	geckodriver	INFO	Listening on 127.0.0.1:54187
+1607255861264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQPjVvn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607255862989	Marionette	INFO	Listening on port 38547
+1607255863085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607255883359	Marionette	INFO	Stopped listening on port 38547
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607255931930	geckodriver	INFO	Listening on 127.0.0.1:48061
+1607255931934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMiAIAC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607255933624	Marionette	INFO	Listening on port 36479
+1607255933670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.03ffd394cb57b33865e3.js, line 1: unreachable code after return statement
+1607255963542	Marionette	INFO	Stopped listening on port 36479
