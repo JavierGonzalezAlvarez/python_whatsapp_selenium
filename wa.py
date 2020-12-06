@@ -13,7 +13,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from selenium.webdriver.chrome.options import Options
 
-#windows tabs
+#windows tabs - no usado
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.expected_conditions import presence_of_element_located
 
@@ -55,7 +55,7 @@ try:
             #msg_box.send_keys(msg)
             msg_box.send_keys(msg)
             
-            #Button de envío - lcoalizar el boton  => <button class="_2Ujuu">     
+            #Button de envío - localizar el boton => <button class="_2Ujuu">     
             driver.find_element_by_class_name("_2Ujuu").click()
             print("Mensaje enviado por WhatsApp")            
             
